@@ -1,0 +1,37 @@
+#title{
+    color: darkorange;
+}
+.img2{
+    height: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: brown;
+    padding: 50px;
+    border: 4px solid indianred;
+    margin-left: 30%;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url('../img/istockphoto-1138395421-612x612.jpg');
+    background-size:cover;
+    color: white;
+}
+section{
+  /* text-align: -webkit-center; */
+}
+img{
+  width: 90%;
+}
+a{
+    color: violet;
+    align-self: center;
+}
+div{
+  display: flex;
+  justify-content: space-around;
+}
